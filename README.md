@@ -1,4 +1,6 @@
-![alt text](https://github.com/AngelitaCecilia/Markdown-Manifesto-Assignment/blob/main/jurnalisme-internet.jpg)Manifesto of How Journalists Work Today
+![alt text](https://github.com/AngelitaCecilia/Markdown-Manifesto-Assignment/blob/main/jurnalisme-internet.jpg)
+
+Manifesto of How Journalists Work Today
 
 **1. The Internet is different.**
 
