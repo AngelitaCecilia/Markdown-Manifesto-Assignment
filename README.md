@@ -1,4 +1,4 @@
-[](RackMultipart20211102-4-1x5ozyf_html_7a94e6a0ae81b0e3.png)Manifesto of How Journalists Work Today
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)Manifesto of How Journalists Work Today
 
 **1. The Internet is different.**
 
